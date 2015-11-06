@@ -1,0 +1,3 @@
+[run]
+include = de_pedia_ba/*
+omit = *migrations*
